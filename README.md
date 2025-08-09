@@ -1,2 +1,1 @@
-# SupplyChain
-Supplychainmanagement-orchestrated logistics harmonization platform for scalable, real-time optimization infrastructure with innovative architecture featuring supplychainmanagement-optimization capabilities
+.
